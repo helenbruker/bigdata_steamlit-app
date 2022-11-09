@@ -12,7 +12,7 @@ from pathlib import Path
 home_path = str(Path.home())
 
 # Data import (you may need to change the path)
-df = pd.read_csv(home_path + "/streamlit-app/data/oecd.csv")
+df = pd.read_csv(home_path + "/Uni/OMM4/BigData/bigdata_steamlit-app/data/oecd.csv")
 
 
 ###-------------------###
